@@ -1,98 +1,84 @@
-# 📊 Tiation Rigger Metrics Dashboard
+# tiation-rigger-metrics-dashboard
 
 <div align="center">
 
-![Tiation Ecosystem](https://img.shields.io/badge/🔮_TIATION_ECOSYSTEM-tiation_rigger_metrics_dashboard-00FFFF?style=for-the-badge&labelColor=0A0A0A&color=00FFFF)
+![tiation-rigger-metrics-dashboard Banner](https://img.shields.io/badge/🔮_TIATION_ECOSYSTEM-tiation-rigger-metrics-dashboard-00FFFF?style=for-the-badge&labelColor=0A0A0A&color=00FFFF)
 
-**Enterprise-grade solution in the Tiation ecosystem**
+**Enterprise-grade solution: tiation-rigger-metrics-dashboard**
 
 *Professional • Scalable • Mission-Driven*
 
-[![🌐_Live_Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-00FFFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-rigger-metrics-dashboard)
-[![📚_Documentation](https://img.shields.io/badge/📚_Documentation-Complete-007FFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-rigger-metrics-dashboard)
-[![⚡_Status](https://img.shields.io/badge/⚡_Status-Active_Development-FF00FF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-rigger-metrics-dashboard)
-[![📄_License](https://img.shields.io/badge/📄_License-MIT-00FFFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-rigger-metrics-dashboard)
+[![🌐_Live_Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Project-00FFFF?style=flat-square&labelColor=0A0A0A)](https://tiation.github.io/tiation-rigger-metrics-dashboard)
+[![📚_Documentation](https://img.shields.io/badge/📚_Documentation-Complete-007FFF?style=flat-square&labelColor=0A0A0A)](https://tiation.github.io/tiation-rigger-metrics-dashboard)
+[![🏗️_Architecture](https://img.shields.io/badge/🏗️_Architecture-Diagram-FF00FF?style=flat-square&labelColor=0A0A0A)](https://tiation.github.io/tiation-rigger-metrics-dashboard/architecture)
+[![⚡_Status](https://img.shields.io/badge/⚡_Status-Active Development-FF00FF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-rigger-metrics-dashboard)
+[![📄_License](https://img.shields.io/badge/📄_License-MIT-00FFFF?style=flat-square&labelColor=0A0A0A)](https://github.com/tiation/tiation-rigger-metrics-dashboard/blob/main/LICENSE)
 
 </div>
 
----
-<div align="center">
+## 🚀 Overview
 
-![Tiation Rigger Metrics](https://img.shields.io/badge/Analytics-Enterprise%20Grade-00FFFF?style=for-the-badge&logo=grafana&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-00FF00?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+Enterprise-grade solution: tiation-rigger-metrics-dashboard
 
-**Enterprise-grade analytics and metrics dashboard for comprehensive platform monitoring**
+### ✨ Key Features
 
-[![🌐 Live Dashboard](https://img.shields.io/badge/📊%20Dashboard-Live%20Site-00FFFF?style=flat-square)](https://tiation.github.io/tiation-rigger-metrics-dashboard/)
-[![💻 GitHub Repository](https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/tiation/tiation-rigger-metrics-dashboard)
-[![🔧 Main Workspace](https://img.shields.io/badge/🔧%20Main-Workspace-00FFFF?style=flat-square)](https://github.com/tiation/tiation-rigger-workspace)
-
-</div>
+- 🎯 **Feature 1** - Description 1
+- 🔧 **Feature 2** - Description 2
+- 🌟 **Feature 3** - Description 3
+- 🛡️ **Feature 4** - Description 4
 
 ---
 
-## 📖 About
+## 🏗️ Architecture
 
-The Tiation Rigger Metrics Dashboard provides enterprise-grade analytics and monitoring capabilities for the entire Tiation Rigger platform ecosystem. This comprehensive solution delivers real-time insights into platform performance, user engagement, business metrics, and operational health.
+![Architecture Diagram](assets/architecture/tiation-rigger-metrics-dashboard-architecture.svg)
 
-### 🎯 Key Highlights
-- **Real-Time Monitoring**: Live metrics and KPIs with sub-second updates
-- **Advanced Analytics**: Deep insights into user behavior and platform performance
-- **Custom Dashboards**: Configurable visualization panels for different stakeholders
-- **Business Intelligence**: Revenue tracking and performance analytics
-- **Enterprise Security**: Role-based access control and audit logging
+### System Components
 
----
+```mermaid
+graph TB
+    A[Component 1] --> B[Component 2]
+    B --> C[Component 3]
+    C --> D[Component 4]
+    
+    style A fill:#00ffff,stroke:#ff00ff,stroke-width:2px
+    style B fill:#ff00ff,stroke:#00ffff,stroke-width:2px
+    style C fill:#00ffff,stroke:#ff00ff,stroke-width:2px
+    style D fill:#ff00ff,stroke:#00ffff,stroke-width:2px
+```
 
-## 🖼️ Dashboard Overview
+### Technology Stack
 
-![Metrics Dashboard](./assets/images/metrics-dashboard-overview.png)
-
-*Real-time analytics dashboard with customizable widgets and advanced filtering*
-
----
-
-## 🚀 Features
-
-### 📊 Core Analytics
-- **Real-time Metrics**: Live dashboard with WebSocket updates
-- **User Analytics**: Activity tracking, retention analysis, and behavior patterns
-- **Performance Monitoring**: API response times, error rates, and throughput
-- **Business Intelligence**: Revenue tracking, conversion funnels, and ROI analysis
-- **Custom KPIs**: Configurable business-specific metrics and alerts
-
-### 📊 Advanced Visualizations
-- **Interactive Charts**: Chart.js and D3.js powered visualizations
-- **Time Series Analysis**: Historical trends and forecasting
-- **Geospatial Analytics**: Location-based insights and heat maps
-- **Comparative Analysis**: Side-by-side metric comparisons
-- **Drill-down Capabilities**: Deep-dive into specific data points
-
-### 📤 Data Management
-- **Real-time Ingestion**: High-throughput data processing
-- **Data Export**: CSV, PDF, and Excel report generation
-- **API Integration**: REST and GraphQL endpoints
-- **Data Retention**: Configurable retention policies
-- **Backup & Recovery**: Automated backup strategies
-
-### 🔐 Security & Compliance
-- **Role-Based Access**: Granular permission control
-- **Audit Logging**: Comprehensive activity tracking
-- **Data Encryption**: End-to-end encryption for sensitive data
-- **Compliance**: GDPR, HIPAA, and SOC 2 compliance features
-- **Single Sign-On**: Integration with enterprise identity providers
+- **Frontend**: Modern Frontend
+- **Backend**: Scalable Backend
+- **Database**: Database
+- **Infrastructure**: Infrastructure
 
 ---
 
-## 📋 Quick Start
+## 📋 Table of Contents
 
-### Prerequisites
-- Node.js >= 18.0.0
-- npm or yarn
-- Modern web browser (Chrome, Firefox, Safari, Edge)
+- [Features](#-features)
+- [Quick Start](#-quick-start)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Documentation](#-documentation)
+- [Screenshots](#-screenshots)
+- [FAQ](#-faq)
+- [Contributing](#-contributing)
+- [Support](#-support)
+- [License](#-license)
+- [About Tiation](#-about-tiation)
 
-### 🚀 Installation
+---
+
+## ✨ Features
+
+{{FEATURES_LIST}}
+
+---
+
+## 🏃‍♂️ Quick Start
 
 ```bash
 # Clone the repository
@@ -100,121 +86,153 @@ git clone https://github.com/tiation/tiation-rigger-metrics-dashboard.git
 cd tiation-rigger-metrics-dashboard
 
 # Install dependencies
-npm install
+{{INSTALL_COMMANDS}}
 
-# Set up environment variables
-cp .env.example .env
-# Edit .env with your configuration
-
-# Start development server
-npm run dev
-
-# Build for production
-npm run build
-
-# Start production server
-npm start
-```
-
-### 🔧 Development
-
-```bash
-# Run tests
-npm test
-
-# Run linting
-npm run lint
-
-# Run type checking
-npm run type-check
-
-# Generate documentation
-npm run docs
+# Run the application
+{{RUN_COMMANDS}}
 ```
 
 ---
 
-## 🛠️ Technology Stack
+## 📦 Installation
 
-### Frontend
-- **Framework**: React 18 with TypeScript
-- **State Management**: Redux Toolkit
-- **Styling**: Tailwind CSS with custom themes
-- **Charts**: Chart.js, D3.js, Recharts
-- **UI Components**: Headless UI, React Hook Form
+### Prerequisites
 
-### Backend Integration
-- **API Client**: Axios with interceptors
-- **Real-time**: WebSocket client
-- **Authentication**: JWT with refresh tokens
-- **Data Fetching**: React Query for caching
-- **Routing**: React Router v6
+{{PREREQUISITES}}
 
-### Build & Development
-- **Build Tool**: Vite
-- **Testing**: Jest, React Testing Library
-- **Linting**: ESLint, Prettier
-- **Type Checking**: TypeScript strict mode
-- **Documentation**: Storybook
+### Installation Steps
 
----
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/tiation/tiation-rigger-metrics-dashboard.git
+   cd tiation-rigger-metrics-dashboard
+   ```
 
-## 📊 Screenshots
+2. **Install dependencies**
+   ```bash
+   {{DETAILED_INSTALL_COMMANDS}}
+   ```
 
-### Main Dashboard
-![Main Dashboard](./assets/images/main-dashboard.png)
-
-### Analytics Overview
-![Analytics Overview](./assets/images/analytics-overview.png)
-
-### Custom Reports
-![Custom Reports](./assets/images/custom-reports.png)
-
-### Mobile View
-![Mobile Dashboard](./assets/images/mobile-dashboard.png)
+3. **Configuration**
+   ```bash
+   {{CONFIG_COMMANDS}}
+   ```
 
 ---
 
-## 📊 Key Metrics
+## 🎯 Usage
 
-### Platform Performance
-- **Response Time**: < 200ms average
-- **Uptime**: 99.9% SLA
-- **Error Rate**: < 0.1%
-- **Throughput**: 10K+ requests/second
+### Basic Usage
 
-### User Engagement
-- **Daily Active Users**: Real-time tracking
-- **Session Duration**: Average and trends
-- **Feature Usage**: Adoption rates
-- **User Retention**: Cohort analysis
+{{BASIC_USAGE}}
 
----
+### Advanced Usage
 
-## 🔗 Links
+{{ADVANCED_USAGE}}
 
-- **🌐 Live Dashboard**: [tiation.github.io/tiation-rigger-metrics-dashboard](https://tiation.github.io/tiation-rigger-metrics-dashboard/)
-- **💻 GitHub Repository**: [github.com/tiation/tiation-rigger-metrics-dashboard](https://github.com/tiation/tiation-rigger-metrics-dashboard)
-- **🔧 Main Workspace**: [github.com/tiation/tiation-rigger-workspace](https://github.com/tiation/tiation-rigger-workspace)
-- **🔌 Backend API**: [github.com/tiation/tiation-rigger-automation-server](https://github.com/tiation/tiation-rigger-automation-server)
-- **📚 Documentation**: [github.com/tiation/tiation-rigger-workspace-docs](https://github.com/tiation/tiation-rigger-workspace-docs)
+### Examples
+
+{{USAGE_EXAMPLES}}
 
 ---
 
-## 📄 License
+## 📚 Documentation
 
-MIT License - see [LICENSE](LICENSE) for details.
+- **[User Guide](docs/user-guide.md)** - Complete user documentation
+- **[API Reference](docs/api-reference.md)** - Technical API documentation
+- **[Architecture](docs/architecture.md)** - System architecture overview
+- **[Deployment Guide](docs/deployment.md)** - Production deployment instructions
+- **[Developer Guide](docs/developer-guide.md)** - Development setup and guidelines
+
+### Live Documentation
+
+Visit our [GitHub Pages site](https://tiation.github.io/tiation-rigger-metrics-dashboard) for interactive documentation.
 
 ---
+
+## 📸 Screenshots
 
 <div align="center">
-  <p><strong>Built with ❤️ and 📊 by the Tiation Team</strong></p>
-  <p>© 2024 Tiation. All rights reserved.</p>
-  
-  <a href="https://github.com/tiation/tiation-rigger-metrics-dashboard">🌟 Star this repo</a> •
-  <a href="https://github.com/tiation/tiation-rigger-metrics-dashboard/issues">🐛 Report Bug</a> •
-  <a href="https://github.com/tiation/tiation-rigger-metrics-dashboard/pulls">🔧 Request Feature</a>
+  <img src="assets/screenshots/main-interface.png" alt="Main Interface" width="800">
+  <p><em>Main application interface</em></p>
 </div>
+
+<div align="center">
+  <img src="assets/screenshots/dashboard.png" alt="Dashboard" width="800">
+  <p><em>Analytics dashboard</em></p>
+</div>
+
+---
+
+## ❓ FAQ
+
+### General Questions
+
+**Q: What makes this solution enterprise-grade?**
+A: Our solution includes comprehensive security, scalability, monitoring, and enterprise integration features with professional support.
+
+**Q: Is this compatible with existing systems?**
+A: Yes, we provide extensive API and integration capabilities for seamless system integration.
+
+**Q: What support options are available?**
+A: We offer community support through GitHub Issues and professional enterprise support for commercial users.
+
+### Technical Questions
+
+**Q: What are the system requirements?**
+A: {{SYSTEM_REQUIREMENTS}}
+
+**Q: How do I handle large scale deployments?**
+A: See our [Deployment Guide](docs/deployment.md) for enterprise-scale deployment strategies.
+
+**Q: Are there any security considerations?**
+A: Yes, please review our [Security Guide](docs/security.md) for comprehensive security best practices.
+
+### Troubleshooting
+
+**Q: Common installation issues**
+A: Check our [Troubleshooting Guide](docs/troubleshooting.md) for solutions to common problems.
+
+**Q: Performance optimization**
+A: Refer to our [Performance Guide](docs/performance.md) for optimization strategies.
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
+
+### Development Setup
+
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Add tests
+5. Submit a pull request
+
+### Code of Conduct
+
+Please read our [Code of Conduct](CODE_OF_CONDUCT.md) before contributing.
+
+---
+
+## 🆘 Support
+
+### Community Support
+
+- **GitHub Issues**: [Report bugs or request features](https://github.com/tiation/tiation-rigger-metrics-dashboard/issues)
+- **Discussions**: [Join community discussions](https://github.com/tiation/tiation-rigger-metrics-dashboard/discussions)
+- **Documentation**: [Browse our documentation](https://tiation.github.io/tiation-rigger-metrics-dashboard)
+
+### Enterprise Support
+
+For enterprise customers, we offer:
+- Priority support
+- Custom development
+- Training and consultation
+- SLA guarantees
+
+Contact us at [tiatheone@protonmail.com](mailto:tiatheone@protonmail.com)
 
 ---
 
@@ -222,12 +240,49 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 This repository is part of the Tiation ecosystem. Explore related projects:
 
-- [🌟 TiaAstor](https://github.com/TiaAstor/TiaAstor) - Personal brand and story
+- [🌟 Tiation Platform](https://github.com/tiation/tiation-ai-platform) - Enterprise AI platform
+- [🤖 AI Agents](https://github.com/tiation/tiation-ai-agents) - Intelligent automation
+- [⚡ Terminal Workflows](https://github.com/tiation/tiation-terminal-workflows) - Developer tools
+- [🐳 Docker Solutions](https://github.com/tiation/tiation-docker-debian) - Container orchestration
+- [📝 CMS](https://github.com/tiation/tiation-cms) - Content management system
 - [🐰 ChaseWhiteRabbit NGO](https://github.com/tiation/tiation-chase-white-rabbit-ngo) - Social impact initiatives
 - [🏗️ Infrastructure](https://github.com/tiation/tiation-rigger-infrastructure) - Enterprise infrastructure
-- [🤖 AI Agents](https://github.com/tiation/tiation-ai-agents) - Intelligent automation
-- [📝 CMS](https://github.com/tiation/tiation-cms) - Content management system
-- [⚡ Terminal Workflows](https://github.com/tiation/tiation-terminal-workflows) - Developer tools
 
 ---
-*Built with 💜 by the Tiation team*
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🌟 About Tiation
+
+**Tiation** is a leading provider of enterprise-grade software solutions, specializing in automation, productivity, and system integration tools. Our mission is to empower organizations with cutting-edge technology that drives efficiency and innovation.
+
+### Our Solutions
+
+- **Automation Platform**: Comprehensive business process automation
+- **Developer Tools**: Professional development and deployment tools
+- **Enterprise Integration**: Seamless system integration solutions
+- **Security Framework**: Advanced security and compliance tools
+
+### Connect With Us
+
+- **Website**: [https://github.com/tiation](https://github.com/tiation)
+- **GitHub**: [https://github.com/tiation](https://github.com/tiation)
+- **LinkedIn**: [Tiation Company](https://linkedin.com/company/tiation)
+- **Twitter**: [@TiationTech](https://twitter.com/TiationTech)
+
+---
+
+<div align="center">
+  <p>
+    <strong>Built with ❤️ by the Tiation Team</strong>
+  </p>
+  <p>
+    <a href="https://github.com/tiation">
+      <img src="https://img.shields.io/badge/Powered%20by-Tiation-cyan.svg" alt="Powered by Tiation">
+    </a>
+  </p>
+</div>
